@@ -1,3 +1,10 @@
 baseURL = "http://code0.ninja/"
-languageCode = "en-us"
-title = "code0"
+title = "Code Template Ninja"
+theme = "learn"
+
+[params]
+  editURL = "https://github.com/briancsparks/code0-ninja-prosper/edit/master/content/"
+  disableNextPrev = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
