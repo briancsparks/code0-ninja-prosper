@@ -3,8 +3,8 @@ title = "Code Template Ninja"
 theme = "learn"
 
 [params]
-  editURL = "https://github.com/briancsparks/code0-ninja-prosper/edit/master/content/"
-  disableNextPrev = true
+ # editURL = "https://github.com/briancsparks/code0-ninja-prosper/edit/master/content/"
+  disableNextPrev = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

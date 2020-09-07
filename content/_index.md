@@ -2,9 +2,7 @@
 title: "Home"
 weight: 3
 ---
-### My Own Homepage
 
-asdfsl22
+# Code Ninja
 
-55
-234
+Template **code** that has **zero** extra effort, so you can be a **jinja**.

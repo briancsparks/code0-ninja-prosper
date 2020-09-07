@@ -1,13 +1,13 @@
 +++
 title = "Languages"
 date = 2020-09-05T21:48:40-07:00
-weight = 5
+weight = 10
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>1. </b>"
 +++
 
-### Chapter X
+### Chapter 1
 
-# Some Chapter title
+# By Language
 
-Lorem Ipsum.
+Templates by language.
