@@ -1,7 +1,6 @@
 ---
 title: "C++ Header Files"
 date: 2020-09-06T17:20:48-07:00
-draft: true
 ---
 
 Assuming:

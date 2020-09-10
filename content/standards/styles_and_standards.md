@@ -2,7 +2,6 @@
 title: "Coding Styles and Standards"
 date: 2020-09-06T20:06:31-07:00
 weight: 10
-draft: true
 ---
 
 The code presented here has to follow a coding style of one type or another, and there

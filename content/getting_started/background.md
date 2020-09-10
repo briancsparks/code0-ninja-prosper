@@ -2,7 +2,6 @@
 title: "Background"
 date: 2020-09-06T18:48:21-07:00
 weight: 10
-draft: true
 ---
 
 Like everyone else, I have spent a lot of time Googling and on [Stack Overflow](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor/11828573), [Geeks for Geeks](https://www.geeksforgeeks.org/),
